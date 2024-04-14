@@ -1,0 +1,13 @@
+@RestfulAPIEndpoints_HostAddress = http://localhost:5042
+
+GET {{RestfulAPIEndpoints_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+
+
+GET {{RestfulAPIEndpoints_HostAddress}}/category/
+Accept: application/json
+
+###
+###
